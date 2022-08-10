@@ -1,0 +1,10 @@
+.container{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    border: none;
+}
+.container h1{
+    color: rgba(101, 44, 100, 0.794);
+}
